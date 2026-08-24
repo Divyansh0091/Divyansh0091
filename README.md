@@ -5,7 +5,7 @@
 
 *Building scalable, reliable, and production-grade data pipelines, modern data warehouses, and automated ETL/ELT workflows.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyansh-soni-data) 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/Divyansh0091)
 
 </div>
@@ -17,8 +17,11 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Cloud & Storage** | Snowflake Data Warehouse, AWS S3, AWS IAM, Object Storage |
+| **Big Data & Distributed Computing** | Apache Spark, Apache Scala, PySpark |
+| **Real-Time Streaming & Ingestion** | Apache Kafka, Scrapy (Web Scraping) |
 | **Data Engineering & ETL** | Snowpark Python, SQL, Change Data Capture (Streams & Tasks), Star Schema, Dimensional Modeling |
-| **Orchestration & Automation** | Snowflake Tasks, Incremental Loads, Idempotent Pipelines |
+| **Orchestration & Automation** | Apache Airflow, Snowflake Tasks, Incremental Loads, Idempotent Pipelines |
+| **Containerization & DevOps** | Docker, Kubernetes |
 | **Analytics & Visualization** | Streamlit in Snowflake (SiS), Python, Pandas, Polars |
 | **Version Control & CI/CD** | Git, GitHub, Collaborative Workflow |
 
@@ -37,8 +40,8 @@
 
 ### 📊 Data Analytics & Exploratory Projects
 
-- **[US Accidents Big Data EDA](https://github.com/Divyansh0091)**: Performed high-performance exploratory data analysis on massive datasets utilizing optimized dataframes.
-- **[Online Retail Revenue Analysis](https://github.com/Divyansh0091)**: Developed comprehensive business intelligence dashboards and KPIs to track revenue streams and customer behavior.
+- **[US Accidents Big Data EDA](https://github.com/Divyansh0091/US-Accidents-Big-Data-EDA-Polars)**: Performed high-performance exploratory data analysis on massive datasets utilizing optimized dataframes.
+- **[Online Retail Revenue Analysis](https://github.com/Divyansh0091/Online-Retail-Revenue-Analysis)**: Developed comprehensive business intelligence dashboards and KPIs to track revenue streams and customer behavior.
 
 ---
 

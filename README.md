@@ -45,13 +45,12 @@
 
 ---
 
-- **[Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091/instacart-end-to-end-data-pipeline)**: An enterprise-grade, automated End-to-End ETL pipeline simulating and processing market data at scale.
-  - **Tech Stack:** Apache Airflow, Apache Kafka, PySpark, AWS S3, Docker, Python
-  - **Real-Time Ingestion:** Handled streaming event data generation and ingestion using **Apache Kafka**.
-  - **Workflow Orchestration:** Automated and scheduled complex pipeline tasks using containerized **Apache Airflow** DAGs.
-  - **Distributed Transformation:** Built clean **Star Schema** models (Fact & Dimension tables) using **PySpark** with optimized Parquet partitioning.
-  - **Cloud Data Lake:** Securely loaded the transformed datasets directly into an **AWS S3** bucket for robust analytics.
-### 📈 GitHub Stats & Metrics
+- **[Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091/instacart-end-to-end-data-pipeline)**: An enterprise-grade, event-driven, and fault-tolerant ELT data pipeline simulating and processing streaming market data at scale.
+  - **Tech Stack:** Apache Airflow, Apache Kafka, Apache Spark (PySpark), AWS S3, Docker, Python
+  - **Real-time Event Streaming:** Built a robust Kafka producer-consumer architecture to simulate, ingest, and validate high-throughput market transaction events with 100% delivery guarantees.
+  - **Automated Orchestration:** Deployed containerized **Apache Airflow** DAGs to orchestrate multi-stage sequential pipelines, handling automated retries, scheduling, and error boundaries.
+  - **Distributed Processing & Star Schema:** Leveraged **PySpark** to clean raw events and transform relational data into a clean **Star Schema** (Fact & Dimension tables) with optimized Parquet partitioning.
+  - **Cloud Data Lake Integration:** Securely ingested and stored structured analytical datasets directly into an **Amazon S3** Data Lake for downstream BI and analytics consumption.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyansh0091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />

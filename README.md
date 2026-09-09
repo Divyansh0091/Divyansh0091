@@ -45,6 +45,12 @@
 
 ---
 
+- **[Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091/instacart-end-to-end-data-pipeline)**: An enterprise-grade, automated End-to-End ETL pipeline simulating and processing market data at scale.
+  - **Tech Stack:** Apache Airflow, Apache Kafka, PySpark, AWS S3, Docker, Python
+  - **Real-Time Ingestion:** Handled streaming event data generation and ingestion using **Apache Kafka**.
+  - **Workflow Orchestration:** Automated and scheduled complex pipeline tasks using containerized **Apache Airflow** DAGs.
+  - **Distributed Transformation:** Built clean **Star Schema** models (Fact & Dimension tables) using **PySpark** with optimized Parquet partitioning.
+  - **Cloud Data Lake:** Securely loaded the transformed datasets directly into an **AWS S3** bucket for robust analytics.
 ### 📈 GitHub Stats & Metrics
 
 <div align="center">

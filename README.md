@@ -45,7 +45,7 @@
 
 ---
 
-### 2. [Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091)
+### 2. [Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091/instacart-end-to-end-data-pipeline)
 
 - **Tech Stack:** Apache Airflow, Apache Kafka, Apache Spark (PySpark), AWS S3, Docker, and Python.
 - **Real-Time Ingestion & Streaming:** Built a robust Kafka producer-consumer architecture to simulate, ingest, and validate high-throughput market transaction events with 100% delivery guarantees.

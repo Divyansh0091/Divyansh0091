@@ -45,7 +45,7 @@
 
 ---
 
-- **[Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091/instacart-end-to-end-data-pipeline)**: An enterprise-grade, event-driven, and fault-tolerant ELT data pipeline simulating and processing streaming market data at scale.
+- #### 2. [Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091/instacart-end-to-end-data-pipeline)**: An enterprise-grade, event-driven, and fault-tolerant ELT data pipeline simulating and processing streaming market data at scale.
   - **Tech Stack:** Apache Airflow, Apache Kafka, Apache Spark (PySpark), AWS S3, Docker, Python
   - **Real-time Event Streaming:** Built a robust Kafka producer-consumer architecture to simulate, ingest, and validate high-throughput market transaction events with 100% delivery guarantees.
   - **Automated Orchestration:** Deployed containerized **Apache Airflow** DAGs to orchestrate multi-stage sequential pipelines, handling automated retries, scheduling, and error boundaries.

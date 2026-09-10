@@ -45,14 +45,13 @@
 
 ---
 
-### 2. Instacart End-to-End Data Pipeline
-*An enterprise-grade, event-driven, and fault-tolerant ELT data pipeline simulating and processing streaming market data at scale.*
+### 2. [Instacart End-to-End Data Pipeline](https://github.com/Divyansh0091)
 
-- **Tech Stack:** Apache Airflow, Apache Kafka, Apache Spark (PySpark), AWS S3, Docker, Python
-- **Real-time Event Streaming:** Built a robust Kafka producer-consumer architecture to simulate, ingest, and validate high-throughput market transaction events with 100% delivery guarantees.
-- **Automated Orchestration:** Deployed containerized *Apache Airflow* DAGs to orchestrate multi-stage sequential pipelines, handling automated retries, scheduling, and error boundaries.
-- **Distributed Processing & Star Schema:** Leveraged *PySpark* to clean raw events and transform relational data into a clean *Star Schema* (Fact & Dimension tables) with optimized Parquet partitioning.
-- **Cloud Data Lake Integration:** Securely ingested and stored structured analytical datasets directly into an *Amazon S3* Data Lake for downstream BI and analytics consumption.
+- *Tech Stack:* Apache Airflow, Apache Kafka, Apache Spark (PySpark), AWS S3, Docker, and Python.
+- *Real-Time Ingestion & Streaming:* Built a robust Kafka producer-consumer architecture to simulate, ingest, and validate high-throughput market transaction events with 100% delivery guarantees.
+- *Workflow Orchestration:* Deployed containerized *Apache Airflow* DAGs to orchestrate multi-stage sequential pipelines, handling automated retries, scheduling, and error boundaries.
+- *Distributed Processing & Modeling:* Leveraged *PySpark* to clean raw events and transform relational data into a clean *Star Schema* (Fact & Dimension tables) with optimized Parquet partitioning.
+- *Cloud Storage & Data Lake:* Securely ingested and stored structured analytical datasets directly into an *Amazon S3* Data Lake for downstream BI and analytics consumption.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyansh0091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
